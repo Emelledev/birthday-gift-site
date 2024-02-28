@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	font-family: "Sora", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+			
+	text-align: center;
+	color: #4a4e69;
+	}
+
+.bday-date {
+	background: #ffc8dd;
+	padding: 7px 25px;
+	border-radius: 5px;
+	margin: 20px 10px 0px 0px;
+	}
+
+#lamyaa-img {
+	border-radius: 50%;
+	border: 5px solid #DEE2FF;
+	width: 400px;
+	}
+
+.background-1 {
+	padding: 50px 0px;
+	background: #f2e9e4;
+	}
+	
+.background-2 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	}
+
+.gift-section {
+	margin: 0;
+	padding: 20px;
+	background: #DEE2FF;
+	}
+
+.gift-img {
+	width: 400px;
+	height: 400px;
+	background-image: url("gift-pic.jpg");
+	background-size: cover;
+	margin: 50px auto;
+	border: 5px solid #FEEAFA;
+	border-radius: 2px;
+	margin-bottom: 150px;
+	}
+	
+#img-1:hover {
+	background-image: url("poop-pic.jpg")
+	}
+	
+#img-2:hover {
+	background-image: url("happy-cat.jpg")
+	}
+	
+#img-3:hover {
+	background-image: url("peace-pic.jpg")
+	}
+	
+#img-4:hover {
+	background-image: url("bruce-lee.jpeg")
+	}
+	
+#img-5 {
+	height: 200px;
+	}
+	
+#img-5:hover {
+	background-image: url("heart-pic.jpg");
+	}
+	
+.footer {
+	margin: 0;
+	padding: 50px;
+	background: linear-gradient(#FEEAFA, #ffc8dd);
+	}
